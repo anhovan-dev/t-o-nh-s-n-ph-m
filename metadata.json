@@ -1,0 +1,5 @@
+{
+  "name": "tao anh san pham",
+  "description": "An AI-powered application to generate professional product photos from an uploaded image and a text prompt, inspired by Habu's AI Generator.",
+  "requestFramePermissions": []
+}
